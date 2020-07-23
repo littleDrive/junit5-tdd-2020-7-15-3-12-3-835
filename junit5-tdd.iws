@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4aa51e-d5c5-438a-b3b6-2db017f30784" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/junit5-tdd.iws" beforeDir="false" afterPath="$PROJECT_DIR$/junit5-tdd.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/junit5/tdd/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit5/tdd/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit5/tdd/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit5/tdd/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,7 @@
       <recent name="junit5.tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FizzBuzzTest.should_return_BuzzWhizz_when_playFizzBuzz_given_multiples_of_5_and_7">
+  <component name="RunManager" selected="Gradle.FizzBuzzTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -265,8 +263,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FizzBuzzTest.should_return_BuzzWhizz_when_playFizzBuzz_given_multiples_of_5_and_7" />
         <item itemvalue="Gradle.FizzBuzzTest" />
+        <item itemvalue="Gradle.FizzBuzzTest.should_return_BuzzWhizz_when_playFizzBuzz_given_multiples_of_5_and_7" />
         <item itemvalue="Gradle.FizzBuzzTest.should_return_FizzBuzz_when_playFizzBuzz_given_multiples_of_3_and_7" />
         <item itemvalue="Gradle.FizzBuzzTest.should_return_Whizz_when_playFizzBuzz_given_7" />
         <item itemvalue="Gradle.FizzBuzzTest.should_return_Buzz_when_playFizzBuzz_given_5" />
@@ -291,22 +289,22 @@
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1595485617090">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1595486447132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595485617090" />
-    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1595485617090">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595486447132" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1595486447132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595485617090" />
-    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1595485617090">
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595486447132" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1595486447132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595485617090" />
-    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1595485617090">
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595486447132" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1595486447132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595485617090" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595486447132" />
     <state x="666" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1595476838216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
