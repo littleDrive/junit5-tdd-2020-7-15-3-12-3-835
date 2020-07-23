@@ -75,6 +75,16 @@ public class FizzBuzzTest {
         assertEquals("BuzzWhizz", result);
     }
 
+    @Test
+    void should_return_FizzBuzzWhizz_when_playFizzBuzz_given_multiples_of_3_and_5_and_7() {
+        //        given
+        int number = 105;
+//        when
+        String result = FizzBuzz.playFizzBuzz(number);
+//        then
+        assertEquals("FizzBuzzWhizz", result);
+    }
+
 
 
 }
