@@ -1,18 +1,23 @@
 package junit5.tdd;
 
+
 public class FizzBuzz {
 
     public static String playFizzBuzz(int number) {
 
-        if (number % 3 == 0 && number % 5 == 0) {
-            return "FizzBuzz";
+        String result = "";
+//        if (number % 3 == 0 && number % 5 == 0) {
+//            return "FizzBuzz";
+//        }
+        if (number % 3 == 0) {
+            result +=  "Fizz";
         }
-        if (number == 3) {
-            return "Fizz";
+        if (number % 5 == 0) {
+            result += "Buzz";
         }
-        if (number == 5) {
-            return "Buzz";
+        if (result.equals("")) {
+            result = String.valueOf(number);
         }
-        return String.valueOf(number);
+        return result;
     }
 }
