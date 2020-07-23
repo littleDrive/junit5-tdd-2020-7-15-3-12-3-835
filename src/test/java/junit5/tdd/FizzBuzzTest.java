@@ -39,7 +39,7 @@ public class FizzBuzzTest {
     @Test
     void should_return_FizzBuzz_when_playFizzBuzz_given_15() {
 //        given
-        int number = 5;
+        int number = 15;
 //        when
         String result = FizzBuzz.playFizzBuzz(number);
 //        then

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4aa51e-d5c5-438a-b3b6-2db017f30784" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit5/tdd/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit5/tdd/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5-tdd.iws" beforeDir="false" afterPath="$PROJECT_DIR$/junit5-tdd.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/junit5/tdd/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit5/tdd/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,22 +267,22 @@
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1595476269634">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1595476520754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476269634" />
-    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1595476269634">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476520754" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1595476520754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476269634" />
-    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1595476269634">
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476520754" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1595476520754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476269634" />
-    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1595476269634">
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476520754" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1595476520754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476269634" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476520754" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595475412445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
