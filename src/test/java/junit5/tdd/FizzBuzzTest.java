@@ -56,7 +56,7 @@ public class FizzBuzzTest {
         assertEquals("FizzBuzz", result);
     }
     @Test
-    void should_return_FizzBuzz_when_playFizzBuzz_given_multiples_of_3_and_7() {
+    void should_return_FizzWhizz_when_playFizzBuzz_given_multiples_of_3_and_7() {
 //        given
         int number = 21;
 //        when
@@ -64,6 +64,17 @@ public class FizzBuzzTest {
 //        then
         assertEquals("FizzWhizz", result);
     }
+
+    @Test
+    void should_return_BuzzWhizz_when_playFizzBuzz_given_multiples_of_5_and_7() {
+//        given
+        int number = 35;
+//        when
+        String result = FizzBuzz.playFizzBuzz(number);
+//        then
+        assertEquals("BuzzWhizz", result);
+    }
+
 
 
 }
