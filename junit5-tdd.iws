@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b4aa51e-d5c5-438a-b3b6-2db017f30784" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/junit5-tdd.iws" beforeDir="false" afterPath="$PROJECT_DIR$/junit5-tdd.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit5/tdd/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit5/tdd/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/junit5/tdd/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit5/tdd/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,7 @@
       <recent name="junit5.tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FizzBuzzTest">
+  <component name="RunManager" selected="Gradle.FizzBuzzTest.should_return_Whizz_when_playFizzBuzz_given_7">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -217,6 +217,25 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="FizzBuzzTest.should_return_Whizz_when_playFizzBuzz_given_7" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;junit5.tdd.FizzBuzzTest.should_return_Whizz_when_playFizzBuzz_given_7&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -242,6 +261,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FizzBuzzTest.should_return_Whizz_when_playFizzBuzz_given_7" />
         <item itemvalue="Gradle.FizzBuzzTest" />
         <item itemvalue="Gradle.FizzBuzzTest.should_return_Buzz_when_playFizzBuzz_given_5" />
         <item itemvalue="Gradle.FizzBuzzTest.should_return_Fizz_when_playFizzBuzz_given_3" />
@@ -267,22 +287,22 @@
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1595476868144">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1595481335093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476868144" />
-    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1595476868144">
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595481335093" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1595481335093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476868144" />
-    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1595476868144">
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595481335093" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1595481335093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476868144" />
-    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1595476868144">
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595481335093" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1595481335093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595476868144" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595481335093" />
     <state x="666" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1595476838216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
